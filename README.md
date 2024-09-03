@@ -1,1 +1,1 @@
-# AgenticRAG
+# AgenticPaSRAG
